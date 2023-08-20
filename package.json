@@ -2,5 +2,9 @@
   "name": "@portals-ecommerce/help",
   "devDependencies": {
     "@capacitor/cli": "^4.3.0"
+  },
+  "dependencies": {
+    "@capacitor/camera": "~4.1.1",
+    "@capacitor/core": "~4.6.2"
   }
 }
