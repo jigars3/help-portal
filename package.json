@@ -2,8 +2,5 @@
   "name": "@portals-ecommerce/help",
   "devDependencies": {
     "@capacitor/cli": "^4.3.0"
-  },
-  "dependencies": {
-    "nx": "^16.7.2"
   }
 }
